@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mLoading project definition from /Users/luchesar.cekov/prj/socialmeter/project[0m
+[0m[[0minfo[0m] [0mSet current project to socialmeter (in build file:/Users/luchesar.cekov/prj/socialmeter/)[0m
+[0m[[0minfo[0m] [0m[scapegoat] setting output dir to [/Users/luchesar.cekov/prj/socialmeter/target/scala-2.11/scapegoat-report][0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/luchesar.cekov/prj/socialmeter/target/scala-2.11/classes...[0m
+[0m[[31merror[0m] [0m/Users/luchesar.cekov/prj/socialmeter/src/main/scala/SocialMeter.scala:30: recursive value sentiment needs type[0m
+[0m[[31merror[0m] [0m      val sentiment = sentiment(tweet.getText)[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
+[0m[[31merror[0m] [0mTotal time: 3 s, completed 27-Nov-2015 15:42:17[0m
